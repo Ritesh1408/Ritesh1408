@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ritesh Roushan Kumar</h1>
 <h3 align="center">Passionate Software Engineering Student From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw1lCAJnAjP3GLvlzm8koEcn&ust=1709899213299000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC_04uN4oQDFQAAAAAdAAAAABAE">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh1408&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh1408" /> </p>
-
+<img align="center" alt="coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh1408" alt="ritesh1408" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/riteshroushan7" target="blank"><img src="https://img.shields.io/twitter/follow/riteshroushan7?logo=twitter&style=for-the-badge" alt="riteshroushan7" /></a> </p>
