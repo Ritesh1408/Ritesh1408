@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Roushan Kumar</h1>
-<h3 align="center">Passionate Software Engineering Student From India</h3>
+<h3 align="center">Passionate Software Engineer From India</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/riteshroushan7" target="blank"><img src="https://img.shields.io/twitter/follow/riteshroushan7?logo=twitter&style=for-the-badge" alt="riteshroushan7" /></a> </p>
 
-- 📫 How to reach me **riteshroushanmbns@gmail.com**
+- 📫 How to reach me **work.ritesh14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
