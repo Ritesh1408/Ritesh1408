@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/riteshroushan7" target="blank"><img src="https://img.shields.io/twitter/follow/riteshroushan7?logo=twitter&style=for-the-badge" alt="riteshroushan7" /></a> </p>
 
-- 🔭 I’m currently working on **AI Project**
+- 🔭 I’m currently working on **AI & Cloud Based Full stack Project**
 
 - 👨‍💻 All of my projects are available at [https://devxritesh.000webhostapp.com/](https://devxritesh.000webhostapp.com/)
 
