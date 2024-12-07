@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI & Cloud Based Full stack Project**
 
-- 👨‍💻 All of my projects are available at [https://devxritesh.000webhostapp.com/](https://devxritesh.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://devxritesh.vercel.app/)
 
 - 💬 Ask me about **MERN Stack, Big Data**
 
