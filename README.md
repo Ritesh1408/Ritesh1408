@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devxritesh.vercel.app/)
 
-- 💬 Ask me about **MERN Stack, Big Data**
+- 💬 Ask me about **Reactjs/Nextjs,Big data,Backend-Development**
 
 - 📫 How to reach me **work.ritesh14@gmail.com**
 
