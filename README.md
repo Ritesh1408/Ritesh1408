@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **AI & Cloud Based Full stack App**
 
-- 🌱 I’m currently learning **Springboot & its Frameworks**
+- 🌱 I’m currently learning **Java & Springboot**
 
 - 👨‍💻 All of my projects are available at [https://devxritesh.vercel.app/](https://devxritesh.vercel.app/)
 
