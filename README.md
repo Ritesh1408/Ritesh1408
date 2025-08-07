@@ -13,11 +13,7 @@
 
 - 🌱 I’m currently learning **Java & Springboot**
 
-- 👨‍💻 All of my projects are available at [https://devxritesh.vercel.app/](https://devxritesh.vercel.app/)
-
 - 📫 How to reach me **work.ritesh14@gmail.com**
-
-  <!--📄 Know about my experiences [https://devxritesh.vercel.app/](https://devxritesh.vercel.app/)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
