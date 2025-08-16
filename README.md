@@ -84,7 +84,7 @@
 
 ---
 
-<h3 align="center">✨ A little animation for you ✨</h3>
+<h3 align="center">✨ Learning ✨</h3>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Full+Stack+Developer;Cloud+%26+AI+Enthusiast;MERN+%2B+SpringBoot+%2B+Microservices;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
 </div>
@@ -92,6 +92,12 @@
 ---
 
 <h3 align="center">🐍 Contribution Graph Animation</h3>
-<div align="center">
-  <img src="https://github.com/ritesh1408/ritesh1408/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
+
+<p align="center">
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake.svg#gh-light-mode-only" alt="Snake animation" />
+  
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+</p>
+
