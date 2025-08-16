@@ -61,10 +61,8 @@
   <!-- Core -->
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://microservices.io/" target="_blank"><img src="https://img.icons8.com/external-outline-juicy-fish/60/external-microservice-coding-and-development-outline-outline-juicy-fish.png" alt="Microservices" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-  <a href="https://cloudinary.com/" target="_blank"><img src="https://res.cloudinary.com/cloudinary-marketing/images/f_auto,q_auto,w_600,h_600/v1701187567/marketing/logos/cloudinary_icon_blue/cloudinary_icon_blue.png" alt="Cloudinary" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   
   <!-- Web & DB -->
@@ -116,7 +114,7 @@
 ---
 
 <!-- Snake Contribution -->
-<h3 align="center">🐍 Contribution Graph Animation</h3>
+<h3 align="center">🐍 Contribution Graph </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake.svg#gh-light-mode-only" alt="Snake animation" />
   <img src="https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
