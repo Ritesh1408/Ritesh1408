@@ -24,15 +24,6 @@
 
 ---
 
-<!-- Twitter -->
-<p align="center"> 
-  <a href="https://twitter.com/riteshroushan7" target="blank">
-    <img src="https://img.shields.io/twitter/follow/riteshroushan7?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a> 
-</p>
-
----
-
 <!-- About Me -->
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **AI & Cloud Based Full Stack App**  
