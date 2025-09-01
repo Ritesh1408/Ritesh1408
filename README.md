@@ -25,7 +25,7 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on **AI & Cloud Based Full Stack App**  
+- 🔭 I’m currently working on **AI Fintech App**  
 - 🌱 I’m currently learning **Java & Spring Boot**  
 - 📫 How to reach me: **work.ritesh14@gmail.com**  
 
