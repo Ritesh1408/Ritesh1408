@@ -1,178 +1,360 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ritesh%20Roushan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=58&descAlign=50&descSize=18"/>
+# 🚀 Ritesh Roushan
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Building+AI+Fintech+Solutions;⚡+MERN+%2B+Spring+Boot+%2B+Microservices;☁️+AWS+%7C+GCP+%7C+Docker+%7C+Redis;🌱+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+### Backend Engineer | System Design Enthusiast | Building AI Infrastructure
 
-<div align="center">
-  <img alt="coding" width="500" height="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
-</div>
+[![Twitter Follow](https://img.shields.io/twitter/follow/devXritesh?style=social)](https://twitter.com/devXritesh)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/riteshroushan14)
+[![Profile Views](https://komarev.com/ghpvc/?username=ritesh1408&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ritesh1408)
 
-<br/>
+*Building production systems that scale | Teaching backend engineering | Currently running a 90-day System Design Series*
 
-<!-- Profile Views + Followers + Stars -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ritesh1408&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/Ritesh1408?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ritesh1408?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers"/>
-  </a>
-</p>
+[📧 Email](mailto:work.ritesh14@gmail.com) • [🐦 Twitter](https://twitter.com/devXritesh) • [💼 LinkedIn](https://linkedin.com/in/riteshroushan14)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 ```typescript
 const ritesh = {
-  name       : "Ritesh Roushan",
-  location   : "India 🇮🇳",
-  role       : "Software Engineer",
-  currentWork: "AI Fintech App 💸",
-  learning   : ["Java", "Spring Boot", "Microservices"],
-  interests  : ["Full Stack Dev", "Cloud Architecture", "AI/ML"],
-  contact    : "work.ritesh14@gmail.com",
-  funFact    : "I debug with console.log and I'm not ashamed 😄",
+    role: "Backend Engineer",
+    currentFocus: "AI Infrastructure & Distributed Systems",
+    workingOn: "AI Fintech App + System Design Content",
+    learning: ["Java & Spring Boot", "RAG Systems", "Vector Databases"],
+    expertise: ["Backend Architecture", "System Design", "Production Engineering"],
+    currentProject: "90-Day System Design + AI Infrastructure Series",
+    goal: "Building systems that survive production, not just tutorials"
 };
 ```
 
----
+### 🎯 What I'm Building
 
-## 🏆 GitHub Trophies
+- 🔭 **AI Fintech Application** - Production-grade fintech system with AI capabilities
+- 📚 **System Design Series** - 90-day deep dive into distributed systems, databases, and AI infrastructure
+- 🌱 **Learning in Public** - Sharing real production lessons, not just theory
+- 💡 **Content Creation** - Teaching backend engineering through X threads, Medium articles, and code
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritesh1408&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+### 💪 Core Strengths
+
+```
+🏗️  System Design        →  PostgreSQL vs MongoDB? I've lived both choices
+⚡  Performance          →  Fixed 100x DB slowdown with one index
+🔧  Production           →  Debugged distributed systems at 3 AM (many times)
+🤖  AI Infrastructure    →  RAG, Vector DBs, LLM serving in production
+📊  Scalability          →  Built systems handling millions of requests
+📝  Technical Writing    →  Explaining complex systems in simple terms
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔥 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+### **Backend Core**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🗄️ Databases & Cache
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+### **Frontend** *(Full-stack capable)*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+### **Tools & Practices**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Competitive Programming
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh1408&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh1408&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+| Platform | Profile | Stats |
+|----------|---------|-------|
+| 🔷 **LeetCode** | [@rr1408](https://leetcode.com/rr1408) | Solved 500+ problems |
+| 🟠 **Codeforces** | [@rr1408](https://codeforces.com/profile/rr1408) | Contest rating tracker |
+| 🟢 **CodeChef** | [@ritesh142001](https://codechef.com/users/ritesh142001) | Active competitor |
+| 🏆 **HackerRank** | [@riteshroushanmb1](https://hackerrank.com/riteshroushanmb1) | Problem solving |
+| 📊 **GeeksForGeeks** | [@riteshroushan](https://auth.geeksforgeeks.org/user/riteshroushan) | DSA practice |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh1408&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+*Strong foundation in algorithms, data structures, and problem-solving*
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh1408&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh1408&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake.svg"/>
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake.svg"/>
-  </picture>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritesh1408&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
----
-
-## 🏅 Competitive Programming
-
 <div align="center">
 
-| Platform | Profile |
-|----------|---------|
-| 🟨 LeetCode | [rr1408](https://leetcode.com/rr1408) |
-| 🔵 Codeforces | [rr1408](https://codeforces.com/profile/rr1408) |
-| 🍴 CodeChef | [ritesh142001](https://www.codechef.com/users/ritesh142001) |
-| 🟩 HackerRank | [riteshroushanmb1](https://www.hackerrank.com/riteshroushanmb1) |
-| 🟢 GeeksForGeeks | [riteshroushan](https://auth.geeksforgeeks.org/user/riteshroushan) |
+[![trophy](https://github-profile-trophy.vercel.app/?username=ritesh1408&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus (2026)
+
+### 📚 90-Day System Design + AI Infrastructure Series
+
+Running a comprehensive series covering:
+
+**Weeks 1-6: Foundations**
+- API & Database Design
+- Caching Strategies (Redis)
+- Message Queues & Async Processing
+- Load Balancing & Scaling
+
+**Weeks 7-12: Distributed Systems**
+- Microservices Patterns
+- Event-Driven Architecture
+- Kafka Deep Dive
+- Circuit Breakers & Fault Tolerance
+
+**Weeks 13-20: Advanced Topics**
+- CAP Theorem in Practice
+- Saga Patterns
+- Distributed Tracing
+- Production Observability
+
+**Weeks 21-28: AI Infrastructure**
+- RAG Architecture
+- Vector Databases (Pinecone, Weaviate)
+- Model Serving in Production
+- LLM Cost Optimization
+- AI Pipeline Design
+
+> *Follow along on [Twitter @devXritesh](https://twitter.com/devXritesh) for daily posts*
+
+---
+
+## 💡 Featured Content
+
+### 📝 Recent Writings
+
+```markdown
+📌 "PostgreSQL vs MongoDB: The Database Decision That Will Make or Break Your SaaS"
+   → Real production experience with both, when to choose what
+
+📌 "How We Fixed a 100x Database Slowdown in One Sprint"
+   → UUIDs vs ULIDs, index optimization, real numbers
+
+📌 "The 5 Distributed Systems Bugs That Aren't in the Code"
+   → Logs lie, assumptions break, production teaches
+
+📌 "I Spent $50K on LLM APIs: Here's How We Cut It to $10K"
+   → AI cost optimization strategies from production
+```
+
+### 🧵 Popular Threads
+
+- **Database Indexes Deep Dive** - 3.7K bookmarks
+- **Caching Strategies That Actually Work** - System Design Series Week 2
+- **Production Debugging Framework** - Real 3 AM incident stories
+- **Microservices: When NOT to Use Them** - Controversial but honest
+
+---
+
+## 🚀 Projects Highlight
+
+### 🏦 AI Fintech Application *(Current)*
+Building production-grade fintech system with AI capabilities
+- **Stack:** Spring Boot, PostgreSQL, Redis, AWS
+- **Focus:** System design, scalability, security
+- **AI Integration:** LLM APIs, cost optimization, RAG systems
+
+### 📊 System Design Content Platform
+Educational content series reaching 1,100+ followers
+- **Format:** Daily posts, weekly threads, Medium articles
+- **Topics:** Backend, System Design, AI Infrastructure
+- **Engagement:** 5.6% rate (top 0.1% on X)
+
+### 🔧 Production Projects
+Real-world systems handling scale
+- Distributed systems architecture
+- Database optimization (100x performance improvements)
+- Caching strategies (Redis, CDN)
+- API design & performance tuning
+
+---
+
+## 📊 2026 Goals
+
+```diff
++ Grow to 5,000+ followers on X
++ Complete 90-day System Design Series
++ Build and ship AI-powered SaaS product
++ Publish 40+ technical articles
++ Master Spring Boot & microservices
++ Deep dive into AI infrastructure (RAG, Vector DBs)
++ Build email list of 1,500+ backend engineers
++ Launch technical course or paid content
+```
+
+---
+
+## 🎓 What I'm Learning
 
 <div align="center">
-  <a href="https://linkedin.com/in/riteshroushan14">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/devXritesh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:work.ritesh14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ritesh1408">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+```typescript
+// Current Learning Stack
+const currentlyLearning = {
+    backend: ["Java", "Spring Boot", "Microservices"],
+    ai: ["RAG Systems", "Vector Databases", "LLM Optimization"],
+    architecture: ["Distributed Systems", "Event-Driven Design"],
+    cloud: ["AWS Advanced Services", "Infrastructure as Code"],
+    devops: ["Docker Advanced", "Kubernetes Basics"],
+    content: ["Technical Writing", "Teaching Complex Systems"]
+};
+```
+
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💬 Recent Activity
+
+<!--START_SECTION:activity-->
+- 🔨 Working on AI Fintech Application architecture
+- 📝 Writing System Design Series - Week 1: API & Database Foundations
+- 🎓 Learning Java Spring Boot ecosystem
+- 🤝 Engaging with 100+ engineers daily on X
+- 📚 Reading: Designing Data-Intensive Applications
+<!--END_SECTION:activity-->
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+**Building in public | Sharing production lessons | Teaching backend engineering**
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devXritesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshroushan14)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ritesh14@gmail.com)
+
+**Coding Profiles:**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rr1408)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rr1408)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ritesh142001)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/riteshroushanmb1)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/riteshroushan)
+
+</div>
+
+---
+
+## 📫 Reach Out
+
+**For:**
+- 🤝 System design discussions
+- 💼 Backend engineering collaboration
+- 📚 Content partnerships
+- 🎯 Technical consulting
+- 💡 Building something cool together
+
+**Email:** work.ritesh14@gmail.com  
+**Twitter DMs:** [@devXritesh](https://twitter.com/devXritesh) - *Most active here*  
+**Response time:** Usually within 24 hours
+
+---
+
+## 💭 My Philosophy
+
+> **"Production is the real teacher. Everything else is just theory."**
+
+I believe in:
+- ✅ Building systems that survive reality, not just pass interviews
+- ✅ Learning in public and helping others grow
+- ✅ Real production stories over perfect code
+- ✅ Trade-offs over best practices
+- ✅ Shipping fast, iterating faster
+
+**Not here for:**
+- ❌ Tutorial hell
+- ❌ Perfect code that never ships
+- ❌ Architecture astronauts
+- ❌ Hype-driven development
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake-dark.svg)
+
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+### ⚡ Fun Facts
+
+```python
+def ritesh_in_nutshell():
+    return {
+        "code_style": "Works in production > Looks pretty",
+        "debugging_time": "3 AM (when things break)",
+        "coffee_dependency": "High (especially during deployments)",
+        "favorite_bug": "The ones that teach you something new",
+        "motto": "Ship it, break it, fix it, improve it",
+        "weekend": "Building side projects + System Design content",
+        "superpower": "Explaining complex systems simply"
+    }
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/ritesh1408/count.svg)
+
+---
+
+**⭐ From [Ritesh1408](https://github.com/Ritesh1408) | Building systems that scale, one commit at a time**
+
+*Last updated: March 2026*
+
 </div>
