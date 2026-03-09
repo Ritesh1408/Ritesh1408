@@ -6,6 +6,10 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Building+AI+Fintech+Solutions;⚡+MERN+%2B+Spring+Boot+%2B+Microservices;☁️+AWS+%7C+GCP+%7C+Docker+%7C+Redis;🌱+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
+<div align="center">
+  <img alt="coding" width="500" height="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+</div>
+
 <br/>
 
 <!-- Profile Views + Followers + Stars -->
