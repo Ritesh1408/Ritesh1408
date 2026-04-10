@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-*Building production systems that scale | Teaching backend engineering | Running 90-day System Design Series*
+*Building production systems that scale | Learning Depth of backend engineering*
 
 [📧 Email](mailto:work.ritesh14@gmail.com) • [🐦 Twitter](https://twitter.com/devXritesh) • [💼 LinkedIn](https://linkedin.com/in/riteshroushan14)
 
@@ -47,9 +47,9 @@ const ritesh = {
 ### 🎯 What I'm Building
 
 - 🔭 **Production-grade Systems** - Building scalable backend systems with focus on performance
-- 📚 **System Design Series** - 90-day deep dive into distributed systems, databases, and AI infrastructure
+- 📚 **System Design Series** - deep dive into distributed systems, databases, and AI infrastructure
 - 🌱 **Learning in Public** - Sharing real production lessons, not just theory
-- 💡 **Content Creation** - Teaching backend engineering through X threads, Medium articles, and code
+- 💡 **Content Creation** - Sharing backend engineering through X threads, Medium articles, and code
 
 ### 💪 Core Strengths
 
@@ -154,68 +154,6 @@ const ritesh = {
 
 ---
 
-## 🎯 Current Focus (2026)
-
-### 📚 90-Day System Design + AI Infrastructure Series
-
-Running a comprehensive series covering:
-
-**Weeks 1-6: Foundations**
-- API & Database Design
-- Caching Strategies (Redis)
-- Message Queues & Async Processing
-- Load Balancing & Scaling
-
-**Weeks 7-12: Distributed Systems**
-- Microservices Patterns
-- Event-Driven Architecture
-- Kafka Deep Dive
-- Circuit Breakers & Fault Tolerance
-
-**Weeks 13-20: Advanced Topics**
-- CAP Theorem in Practice
-- Saga Patterns
-- Distributed Tracing
-- Production Observability
-
-**Weeks 21-28: AI Infrastructure**
-- RAG Architecture
-- Vector Databases (Pinecone, Weaviate)
-- Model Serving in Production
-- LLM Cost Optimization
-- AI Pipeline Design
-
-> *Follow along on [Twitter @devXritesh](https://twitter.com/devXritesh) for daily posts*
-
----
-
-## 💡 Featured Content
-
-### 📝 Recent Writings
-
-```markdown
-📌 "PostgreSQL vs MongoDB: The Database Decision That Will Make or Break Your SaaS"
-   → Real production experience with both, when to choose what
-
-📌 "How We Fixed a 100x Database Slowdown in One Sprint"
-   → UUIDs vs ULIDs, index optimization, real numbers
-
-📌 "The 5 Distributed Systems Bugs That Aren't in the Code"
-   → Logs lie, assumptions break, production teaches
-
-📌 "I Spent $50K on LLM APIs: Here's How We Cut It to $10K"
-   → AI cost optimization strategies from production
-```
-
-### 🧵 Popular Threads
-
-- **Database Indexes Deep Dive** - 3.7K bookmarks
-- **Caching Strategies That Actually Work** - System Design Series Week 2
-- **Production Debugging Framework** - Real 3 AM incident stories
-- **Microservices: When NOT to Use Them** - Controversial but honest
-
----
-
 ### Blogs posts
 
 <p align="left">
@@ -226,18 +164,16 @@ Running a comprehensive series covering:
 ## 🚀 Projects Highlight
 
 ### 📊 System Design Content Platform
-Educational content series reaching 1,100+ followers
+Educational content series reaching 2500+ followers
 - **Format:** Daily posts, weekly threads, Medium articles
 - **Topics:** Backend, System Design, Distributed Systems, AI Infrastructure
-- **Engagement:** 5.6% rate (top 0.1% on X)
-- **Impact:** 3.7K bookmarks, helping engineers learn system design
 
 ### 🔧 Production Systems & Architecture
 Real-world backend systems with focus on scalability
 - **Stack:** Spring Boot, FastAPI, PostgreSQL, Redis, Kafka, AWS
 - **Focus:** System design, performance optimization, distributed systems
 - **Achievements:** 
-  - Database optimization (100x performance improvements)
+  - Database optimization
   - Caching strategies (Redis, CDN)
   - API design & performance tuning
   - Message queue implementations
@@ -255,7 +191,6 @@ Building to learn and teach
 
 ```diff
 + Grow to 5,000+ followers on X
-+ Complete 90-day System Design Series
 + Build and ship AI-powered SaaS product
 + Publish 40+ technical articles
 + Master Spring Boot & microservices
@@ -290,7 +225,7 @@ const currentlyLearning = {
 
 <!--START_SECTION:activity-->
 - 🔨 Building production backend systems with Spring Boot & FastAPI
-- 📝 Writing System Design Series - Week 1: API & Database Foundations
+- 📝 Sharing System Design Learning
 - 🎓 Learning Java Spring Boot ecosystem & Kafka
 - 🤝 Engaging with 100+ engineers daily on X
 - 📚 Reading: Designing Data-Intensive Applications
