@@ -49,16 +49,15 @@ const ritesh = {
 - 🔭 **Production-grade Systems** - Building scalable backend systems with focus on performance
 - 📚 **System Design Series** - deep dive into distributed systems, databases, and AI infrastructure
 - 🌱 **Learning in Public** - Sharing real production lessons, not just theory
-- 💡 **Content Creation** - Sharing backend engineering through X threads, Medium articles, and code
+- 💡 **Content Creation** - Sharing backend engineering through X threads and Medium articles
 
 ### 💪 Core Strengths
 
 ```
 🏗️  System Design        →  PostgreSQL vs MongoDB? I've lived both choices
-⚡  Performance          →  Fixed 100x DB slowdown with one index
+⚡  Performance          →  Optimized database queries reducing API response latency significantly
 🔧  Production           →  Debugged distributed systems at 3 AM (many times)
-🤖  AI Infrastructure    →  RAG, Vector DBs, LLM serving in production
-📊  Scalability          →  Built systems handling millions of requests
+🤖  AI Infrastructure    →  RAG, Vector DBs, LLM Integration
 📝  Technical Writing    →  Explaining complex systems in simple terms
 ```
 
@@ -92,7 +91,6 @@ const ritesh = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### **Frontend** *(Full-stack capable)*
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -113,9 +111,9 @@ const ritesh = {
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| 🔷 **LeetCode** | [@rr1408](https://leetcode.com/rr1408) | Solved 500+ problems |
-| 🟠 **Codeforces** | [@rr1408](https://codeforces.com/profile/rr1408) | Contest rating tracker |
-| 🟢 **CodeChef** | [@ritesh142001](https://codechef.com/users/ritesh142001) | Active competitor |
+| 🔷 **LeetCode** | [@rr1408](https://leetcode.com/rr1408) | Knight — 500+ problems solved |
+| 🟠 **Codeforces** | [@rr1408](https://codeforces.com/profile/rr1408) | Max Rating: 1319 |
+| 🟢 **CodeChef** | [@ritesh142001](https://codechef.com/users/ritesh142001) | Global Rank 86 — Top 0.5% |
 | 🏆 **HackerRank** | [@riteshroushanmb1](https://hackerrank.com/riteshroushanmb1) | Problem solving |
 | 📊 **GeeksForGeeks** | [@riteshroushan](https://auth.geeksforgeeks.org/user/riteshroushan) | DSA practice |
 
@@ -154,29 +152,28 @@ const ritesh = {
 
 ---
 
-### Blogs posts
+### ✍️ Medium Articles
 
 <p align="left">
-<a href="https://dev.to/devxritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devxritesh" height="30" width="40" /></a>
 <a href="https://medium.com/@devxritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devxritesh" height="30" width="40" /></a>
 </p>
 
 ## 🚀 Projects Highlight
 
 ### 📊 System Design Content Platform
-Educational content series reaching 2500+ followers
-- **Format:** Daily posts, weekly threads, Medium articles
+Educational content series reaching 4,000+ followers on X in 2 months
+- **Format:** Daily posts, weekly threads, Medium articles (12 published)
 - **Topics:** Backend, System Design, Distributed Systems, AI Infrastructure
 
 ### 🔧 Production Systems & Architecture
 Real-world backend systems with focus on scalability
 - **Stack:** Spring Boot, FastAPI, PostgreSQL, Redis, Kafka, AWS
 - **Focus:** System design, performance optimization, distributed systems
-- **Achievements:** 
-  - Database optimization
-  - Caching strategies (Redis, CDN)
+- **Achievements:**
+  - Database query optimization
+  - Caching strategies (Redis)
   - API design & performance tuning
-  - Message queue implementations
+  - Message queue implementations (Kafka)
 
 ### 🎓 Learning Projects
 Building to learn and teach
@@ -190,7 +187,7 @@ Building to learn and teach
 ## 📊 2026 Goals
 
 ```diff
-+ Grow to 5,000+ followers on X
++ Grow to 10,000+ followers on X
 + Build and ship AI-powered SaaS product
 + Publish 40+ technical articles
 + Master Spring Boot & microservices
@@ -225,7 +222,7 @@ const currentlyLearning = {
 
 <!--START_SECTION:activity-->
 - 🔨 Building production backend systems with Spring Boot & FastAPI
-- 📝 Sharing System Design Learning
+- 📝 Publishing System Design articles on Medium
 - 🎓 Learning Java Spring Boot ecosystem & Kafka
 - 🤝 Engaging with 100+ engineers daily on X
 - 📚 Reading: Designing Data-Intensive Applications
@@ -241,6 +238,7 @@ const currentlyLearning = {
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devXritesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshroushan14)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devxritesh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ritesh14@gmail.com)
 
 **Coding Profiles:**
@@ -264,8 +262,8 @@ const currentlyLearning = {
 - 🎯 Technical consulting
 - 💡 Building something cool together
 
-**Email:** work.ritesh14@gmail.com  
-**Twitter DMs:** [@devXritesh](https://twitter.com/devXritesh) - *Most active here*  
+**Email:** work.ritesh14@gmail.com
+**Twitter DMs:** [@devXritesh](https://twitter.com/devXritesh) - *Most active here*
 **Response time:** Usually within 24 hours
 
 ---
@@ -346,7 +344,7 @@ def ritesh_in_nutshell():
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
-*Last updated: March 2026*
+*Last updated: May 2026*
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
