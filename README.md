@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🚀 Ritesh Roushan
+#  Ritesh Roushan
 
 ### Backend Engineer | System Design Enthusiast | Building Production Systems
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Building+Production+Systems;⚡+System+Design+%2B+Backend+Architecture;☁️+Spring+Boot+%7C+FastAPI+%7C+Kafka+%7C+Redis;🎓+Always+Learning%2C+Always+Shipping;📚+Teaching+90-Day+System+Design+Series" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines= +Building+Production+Systems;⚡+System+Design+%2B+Backend+Architecture;☁️+Spring+Boot+%7C+FastAPI+%7C+Kafka+%7C+Redis;🎓+Always+Learning%2C+Always+Shipping;📚+Teaching+90-Day+System+Design+Series" alt="Typing SVG" />
 <br/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devXritesh?style=social)](https://twitter.com/devXritesh)
