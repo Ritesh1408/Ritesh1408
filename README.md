@@ -152,89 +152,11 @@ const ritesh = {
 
 ---
 
-### ✍️ Medium Articles
-
-<p align="left">
-<a href="https://medium.com/@devxritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devxritesh" height="30" width="40" /></a>
-</p>
-
-## 🚀 Projects Highlight
-
-### 📊 System Design Content Platform
-Educational content series reaching 4,000+ followers on X in 2 months
-- **Format:** Daily posts, weekly threads, Medium articles (12 published)
-- **Topics:** Backend, System Design, Distributed Systems, AI Infrastructure
-
-### 🔧 Production Systems & Architecture
-Real-world backend systems with focus on scalability
-- **Stack:** Spring Boot, FastAPI, PostgreSQL, Redis, Kafka, AWS
-- **Focus:** System design, performance optimization, distributed systems
-- **Achievements:**
-  - Database query optimization
-  - Caching strategies (Redis)
-  - API design & performance tuning
-  - Message queue implementations (Kafka)
-
-### 🎓 Learning Projects
-Building to learn and teach
-- Distributed systems implementations
-- Microservices patterns
-- Event-driven architecture with Kafka
-- System design deep dives
-
----
-
-## 📊 2026 Goals
-
-```diff
-+ Grow to 10,000+ followers on X
-+ Build and ship AI-powered SaaS product
-+ Publish 40+ technical articles
-+ Master Spring Boot & microservices
-+ Deep dive into AI infrastructure (RAG, Vector DBs)
-+ Build email list of 1,500+ backend engineers
-+ Launch technical course or paid content
-```
-
----
-
-## 🎓 What I'm Learning
-
-<div align="center">
-
-```typescript
-// Current Learning Stack
-const currentlyLearning = {
-    backend: ["Java", "Spring Boot", "Microservices", "Kafka"],
-    systemDesign: ["Distributed Systems", "Event-Driven Architecture", "Database Optimization"],
-    ai: ["RAG Systems", "Vector Databases", "LLM Integration"],
-    cloud: ["AWS Services", "GCP", "Infrastructure as Code"],
-    devops: ["Docker", "Container Orchestration"],
-    content: ["Technical Writing", "Teaching Complex Systems"]
-};
-```
-
-</div>
-
----
-
-## 💬 Recent Activity
-
-<!--START_SECTION:activity-->
-- 🔨 Building production backend systems with Spring Boot & FastAPI
-- 📝 Publishing System Design articles on Medium
-- 🎓 Learning Java Spring Boot ecosystem & Kafka
-- 🤝 Engaging with 100+ engineers daily on X
-- 📚 Reading: Designing Data-Intensive Applications
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-**Building in public | Sharing production lessons | Teaching backend engineering**
+**Building in public | Sharing production backend engineering insights**
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devXritesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshroushan14)
@@ -278,12 +200,6 @@ I believe in:
 - ✅ Real production stories over perfect code
 - ✅ Trade-offs over best practices
 - ✅ Shipping fast, iterating faster
-
-**Not here for:**
-- ❌ Tutorial hell
-- ❌ Perfect code that never ships
-- ❌ Architecture astronauts
-- ❌ Hype-driven development
 
 ---
 
