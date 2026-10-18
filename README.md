@@ -15,8 +15,6 @@
 
 *Building in public | Most active on Twitter DMs | Usually reply within 24 hours*
 
-<img src="https://komarev.com/ghpvc/?username=ritesh1408&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 <img alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 </div>
