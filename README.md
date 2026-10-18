@@ -4,7 +4,7 @@
 
 ### Backend Engineer | System Design Enthusiast | Building Production Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+Building+Production+Systems;⚡+System+Design+%2B+Backend+Architecture;☁️+Spring+Boot+%7C+FastAPI+%7C+Kafka+%7C+Redis;🎓+Always+Learning%2C+Always+Shipping;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+Building+Production+Systems;System+Design+%2B+Backend+Architecture;Spring+Boot+%7C+FastAPI+%7C+Kafka+%7C+Redis;+Always+Learning%2C+Always+Shipping;" alt="Typing SVG" />
 
 <br/>
 
@@ -46,13 +46,13 @@ const ritesh = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**⚙️ Backend Core**<br/><br/>
+**Backend Core**<br/><br/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -63,7 +63,7 @@ const ritesh = {
 </td>
 <td width="50%" valign="top">
 
-**💬 Languages**<br/><br/>
+**Languages**<br/><br/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,7 +73,7 @@ const ritesh = {
 <tr>
 <td width="50%" valign="top">
 
-**🗄️ Databases & Caching**<br/><br/>
+**Databases & Caching**<br/><br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -82,7 +82,7 @@ const ritesh = {
 </td>
 <td width="50%" valign="top">
 
-**📨 Message Queue & Streaming**<br/><br/>
+**Message Queue & Streaming**<br/><br/>
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </td>
@@ -90,7 +90,7 @@ const ritesh = {
 <tr>
 <td width="50%" valign="top">
 
-**☁️ Cloud & Infrastructure**<br/><br/>
+**Cloud & Infrastructure**<br/><br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -98,7 +98,7 @@ const ritesh = {
 </td>
 <td width="50%" valign="top">
 
-**🎨 Frontend** *(Full-stack capable)*<br/><br/>
+**Frontend** *(Full-stack capable)*<br/><br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -109,7 +109,7 @@ const ritesh = {
 <tr>
 <td colspan="2" valign="top">
 
-**🧰 Tools & Development**<br/><br/>
+**Tools & Development**<br/><br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -120,7 +120,7 @@ const ritesh = {
 
 ---
 
-## 🎓 Competitive Programming
+## Competitive Programming
 
 <table>
 <tr>
@@ -159,7 +159,7 @@ Top 0.5%
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -196,16 +196,16 @@ Top 0.5%
 > **"Production is the real teacher. Everything else is just theory."**
 
 I believe in:
-- ✅ Building systems that survive reality, not just pass interviews
-- ✅ Learning in public and helping others grow
-- ✅ Real production stories over perfect code
-- ✅ Trade-offs over best practices
-- ✅ Shipping fast, iterating faster
+- Building systems that survive reality, not just pass interviews
+- Learning in public and helping others grow
+- Real production stories over perfect code
+- Trade-offs over best practices
+- Shipping fast, iterating faster
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Random Dev Quote
+### Random Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
