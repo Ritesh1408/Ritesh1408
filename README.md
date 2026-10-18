@@ -1,35 +1,35 @@
 <div align="center">
 
-#  Ritesh Roushan
+# Ritesh Roushan
 
 ### Backend Engineer | System Design Enthusiast | Building Production Systems
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+Building+Production+Systems;⚡+System+Design+%2B+Backend+Architecture;☁️+Spring+Boot+%7C+FastAPI+%7C+Kafka+%7C+Redis;🎓+Always+Learning%2C+Always+Shipping;" alt="Typing SVG" />
+
 <br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/devXritesh?style=social)](https://twitter.com/devXritesh)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/riteshroushan14)
-[![Profile Views](https://komarev.com/ghpvc/?username=ritesh1408&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ritesh1408)
+[![Twitter](https://img.shields.io/badge/Twitter-@devXritesh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devXritesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshroushan14)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devxritesh)
+[![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ritesh14@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+*Building in public | Most active on Twitter DMs | Usually reply within 24 hours*
 
-*Building production systems that scale | Learning Depth of backend engineering*
+<img src="https://komarev.com/ghpvc/?username=ritesh1408&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-[📧 Email](mailto:work.ritesh14@gmail.com) • [🐦 Twitter](https://twitter.com/devXritesh) • [💼 LinkedIn](https://linkedin.com/in/riteshroushan14)
+<img alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 </div>
 
 ---
 
-<!-- Coding GIF -->
-<div align="center">
-  <img alt="coding" width="500" height="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
-</div>
+## 👨‍💻 About
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 👨‍💻 About Me
+### 🧑‍💻 About Me
 
 ```typescript
 const ritesh = {
@@ -42,28 +42,32 @@ const ritesh = {
 };
 ```
 
-### 🎯 What I'm Building
-
-- 🔭 **Production-grade Systems** - Building scalable backend systems with focus on performance
-- 📚 **System Design Series** - deep dive into distributed systems, databases, and AI infrastructure
-- 🌱 **Learning in Public** - Sharing real production lessons, not just theory
-- 💡 **Content Creation** - Sharing backend engineering through X threads and Medium articles
+</td>
+<td width="50%" valign="top">
 
 ### 💪 Core Strengths
 
 ```
-🏗️  System Design        →  PostgreSQL vs MongoDB? I've lived both choices
-⚡  Performance          →  Optimized database queries reducing API response latency significantly
-🔧  Production           →  Debugged distributed systems at 3 AM (many times)
-🤖  AI Infrastructure    →  RAG, Vector DBs, LLM Integration
-📝  Technical Writing    →  Explaining complex systems in simple terms
+🏗️  System Design     →  PostgreSQL vs MongoDB? I've lived both choices
+⚡  Performance       →  Optimized DB queries, cut API latency significantly
+🔧  Production        →  Debugged distributed systems at 3 AM (many times)
+🤖  AI Infrastructure →  RAG, Vector DBs, LLM Integration
+📝  Technical Writing →  Explaining complex systems in simple terms
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Backend Core**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Backend Core**<br/><br/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -71,35 +75,63 @@ const ritesh = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Languages**
+</td>
+<td width="50%" valign="top">
+
+**💬 Languages**<br/><br/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Databases & Caching**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Databases & Caching**<br/><br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Message Queue & Streaming**
+</td>
+<td width="50%" valign="top">
+
+**📨 Message Queue & Streaming**<br/><br/>
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### **Cloud & Infrastructure**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ Cloud & Infrastructure**<br/><br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **Frontend** *(Full-stack capable)*
+</td>
+<td width="50%" valign="top">
+
+**🎨 Frontend** *(Full-stack capable)*<br/><br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Tools & Development**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🧰 Tools & Development**<br/><br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -109,15 +141,15 @@ const ritesh = {
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| 🔷 **LeetCode** | [@rr1408](https://leetcode.com/rr1408) | Knight — 500+ problems solved |
-| 🟠 **Codeforces** | [@rr1408](https://codeforces.com/profile/rr1408) | Max Rating: 1319 |
-| 🟢 **CodeChef** | [@ritesh142001](https://codechef.com/users/ritesh142001) | Global Rank 86 — Top 0.5% |
-| 🏆 **HackerRank** | [@riteshroushanmb1](https://hackerrank.com/riteshroushanmb1) | Problem solving |
-| 📊 **GeeksForGeeks** | [@riteshroushan](https://auth.geeksforgeeks.org/user/riteshroushan) | DSA practice |
-
-</div>
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/rr1408) | [@rr1408](https://leetcode.com/rr1408) | Knight, 500+ problems solved |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rr1408) | [@rr1408](https://codeforces.com/profile/rr1408) | Max Rating: 1319 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/ritesh142001) | [@ritesh142001](https://codechef.com/users/ritesh142001) | Global Rank 86, Top 0.5% |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/riteshroushanmb1) | [@riteshroushanmb1](https://hackerrank.com/riteshroushanmb1) | Problem solving |
+| [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/riteshroushan) | [@riteshroushan](https://auth.geeksforgeeks.org/user/riteshroushan) | DSA practice |
 
 *Strong foundation in algorithms, data structures, and problem-solving*
+
+</div>
 
 ---
 
@@ -125,62 +157,35 @@ const ritesh = {
 
 <div align="center">
 
-<a href="https://github.com/ritesh1408">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh1408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
+<td align="center" width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh1408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh1408&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake-dark.svg)
+
+<img src="https://img.shields.io/github/followers/ritesh1408?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/ritesh1408?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 
 </div>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh1408&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritesh1408&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Building in public | Sharing production backend engineering insights**
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devXritesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshroushan14)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devxritesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ritesh14@gmail.com)
-
-**Coding Profiles:**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rr1408)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rr1408)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ritesh142001)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/riteshroushanmb1)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/riteshroushan)
-
-</div>
-
----
-
-## 📫 Reach Out
-
-**Twitter DMs:** [@devXritesh](https://twitter.com/devXritesh) - *Most active here*
-**Response time:** Usually within 24 hours
 
 ---
 
 ## 💭 My Philosophy
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 > **"Production is the real teacher. Everything else is just theory."**
 
@@ -191,69 +196,27 @@ I believe in:
 - ✅ Trade-offs over best practices
 - ✅ Shipping fast, iterating faster
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🐍 Contribution Graph
+### 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh1408&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Ritesh1408/Ritesh1408/output/github-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Facts
-
-```python
-def ritesh_in_nutshell():
-    return {
-        "code_style": "Works in production > Looks pretty",
-        "debugging_time": "3 AM (when things break)",
-        "coffee_dependency": "High (especially during deployments)",
-        "favorite_bug": "The ones that teach you something new",
-        "motto": "Ship it, break it, fix it, improve it",
-        "weekend": "Building side projects + System Design content",
-        "superpower": "Explaining complex systems simply"
-    }
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Profile Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritesh1408&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ritesh1408?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ritesh1408?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</p>
-
----
-
-**⭐ From [Ritesh1408](https://github.com/Ritesh1408) | Building systems that scale, one commit at a time**
-
-💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
+<br/>
 
 *Last updated: May 2026*
 
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</div>
+
+**⭐ From [Ritesh1408](https://github.com/Ritesh1408) | Building systems that scale, one commit at a time**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
