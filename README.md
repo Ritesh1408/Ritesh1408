@@ -23,12 +23,6 @@
 
 ---
 
-## 👨‍💻 About
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🧑‍💻 About Me
 
 ```typescript
@@ -42,9 +36,6 @@ const ritesh = {
 };
 ```
 
-</td>
-<td width="50%" valign="top">
-
 ### 💪 Core Strengths
 
 ```
@@ -54,10 +45,6 @@ const ritesh = {
 🤖  AI Infrastructure →  RAG, Vector DBs, LLM Integration
 📝  Technical Writing →  Explaining complex systems in simple terms
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -137,15 +124,36 @@ const ritesh = {
 
 ## 🎓 Competitive Programming
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
 
-| Platform | Profile | Stats |
-|----------|---------|-------|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/rr1408) | [@rr1408](https://leetcode.com/rr1408) | Knight, 500+ problems solved |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rr1408) | [@rr1408](https://codeforces.com/profile/rr1408) | Max Rating: 1319 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/ritesh142001) | [@ritesh142001](https://codechef.com/users/ritesh142001) | Global Rank 86, Top 0.5% |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/riteshroushanmb1) | [@riteshroushanmb1](https://hackerrank.com/riteshroushanmb1) | Problem solving |
-| [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/riteshroushan) | [@riteshroushan](https://auth.geeksforgeeks.org/user/riteshroushan) | DSA practice |
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rr1408)<br/><br/>
+[@rr1408](https://leetcode.com/rr1408)<br/><br/>
+**Knight**<br/>
+500+ problems solved
+
+</td>
+<td align="center" width="33%" valign="top">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rr1408)<br/><br/>
+[@rr1408](https://codeforces.com/profile/rr1408)<br/><br/>
+**Max Rating: 1319**<br/>
+&nbsp;
+
+</td>
+<td align="center" width="33%" valign="top">
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ritesh142001)<br/><br/>
+[@ritesh142001](https://codechef.com/users/ritesh142001)<br/><br/>
+**Global Rank 86**<br/>
+Top 0.5%
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 *Strong foundation in algorithms, data structures, and problem-solving*
 
