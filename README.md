@@ -35,10 +35,8 @@
 const ritesh = {
     role: "Backend Engineer",
     currentFocus: "System Design & Distributed Systems",
-    workingOn: "90-Day System Design + AI Infrastructure Series",
     learning: ["Java & Spring Boot", "Microservices", "Kafka", "System Architecture"],
     expertise: ["Backend Architecture", "System Design", "Production Engineering", "Database Optimization"],
-    currentProject: "Building scalable systems + Teaching backend engineering",
     goal: "Building systems that survive production, not just tutorials",
     funFact: "I debug with console.log and I'm not ashamed 😄"
 };
@@ -177,14 +175,6 @@ const ritesh = {
 
 ## 📫 Reach Out
 
-**For:**
-- 🤝 System design discussions
-- 💼 Backend engineering collaboration
-- 📚 Content partnerships
-- 🎯 Technical consulting
-- 💡 Building something cool together
-
-**Email:** work.ritesh14@gmail.com
 **Twitter DMs:** [@devXritesh](https://twitter.com/devXritesh) - *Most active here*
 **Response time:** Usually within 24 hours
 
