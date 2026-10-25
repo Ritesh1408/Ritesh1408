@@ -27,7 +27,7 @@
 const ritesh = {
     role: "Backend Engineer",
     currentFocus: "System Design & Distributed Systems",
-    learning: ["Java & Spring Boot", "Microservices", "Kafka", "System Architecture"],
+    working: ["Java & Spring Boot", "Microservices", "Kafka", "System Architecture"],
     expertise: ["Backend Architecture", "System Design", "Production Engineering", "Database Optimization"],
     goal: "Building systems that survive production, not just tutorials",
     funFact: "I debug with console.log and I'm not ashamed 😄"
