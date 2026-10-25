@@ -211,10 +211,6 @@ I believe in:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
-<br/>
-
-*Last updated: May 2026*
-
 </td>
 </tr>
 </table>
